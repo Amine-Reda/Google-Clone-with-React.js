@@ -1,4 +1,10 @@
-# Google Clone with React.js
+# Google Clone with React.js & Firebase
+
+### [Live Site](https://clone-385c2.web.app/)
+
+![GoogleClone](assets/googleimage1.png)
+![GoogleClone](assets/googleimage2.png)
+
 
 ## Available Scripts
 
