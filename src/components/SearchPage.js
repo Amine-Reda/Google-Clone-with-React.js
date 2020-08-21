@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 import React from "react";
 import "./SearchPage.css";
 import { useStateValue } from "../StateProvider";
@@ -14,9 +13,9 @@ import RoomIcon from "@material-ui/icons/Room";
 import MoreVertIcon from "@material-ui/icons/MoreVert";
 
 function SearchPage() {
+  /* eslint-disable no-unused-vars */
   const [{ term = "tesla" }, dispatch] = useStateValue();
   const { data } = useGoogleSearch(term);
-  //const data = Response;//
   console.log(data);
   return (
     <div className="searchPage">

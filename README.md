@@ -1,12 +1,5 @@
 # Google Clone with React.js
 
-### [Live Site](https://optimistic-mirzakhani-046289.netlify.app/)
-
-![GoogleClone](assets/GoogleClone.png)
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
